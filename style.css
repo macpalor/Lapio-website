@@ -1,1 +1,13 @@
-p { background-color: red; }
+* {color: brown; }
+h1 {color: blue; }
+.kursiivi {
+  color: yellow;
+}
+
+#punainen {
+  color: red;
+}
+
+.lista {
+    color: pink;
+}
